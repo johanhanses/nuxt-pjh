@@ -1,4 +1,4 @@
 # Megahem
 ## Todo
-- Amplify auth
+- Auth
 - Favicon
